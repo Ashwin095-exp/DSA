@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashwin095-exp/DSA/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Ashwin095-exp/DSA/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Ashwin095-exp/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
