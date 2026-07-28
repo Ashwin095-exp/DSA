@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashwin095-exp/DSA/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashwin095-exp/DSA/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashwin095-exp/DSA/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
