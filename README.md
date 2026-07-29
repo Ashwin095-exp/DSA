@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashwin095-exp/DSA/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashwin095-exp/DSA/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
