@@ -12,6 +12,7 @@
 | [0118-pascals-triangle](https://github.com/Ashwin095-exp/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Ashwin095-exp/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwin095-exp/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Ashwin095-exp/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
