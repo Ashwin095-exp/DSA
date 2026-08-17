@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Ashwin095-exp/DSA/tree/master/0283-move-zeroes) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashwin095-exp/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
