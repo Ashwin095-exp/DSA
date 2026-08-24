@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashwin095-exp/DSA/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Ashwin095-exp/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Ashwin095-exp/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwin095-exp/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -30,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ashwin095-exp/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwin095-exp/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Ashwin095-exp/DSA/tree/master/0283-move-zeroes) |
 ## String
@@ -43,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ashwin095-exp/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -52,4 +55,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ashwin095-exp/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ashwin095-exp/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
