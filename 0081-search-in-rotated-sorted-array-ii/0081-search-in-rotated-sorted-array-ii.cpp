@@ -12,7 +12,7 @@ public:
                 return true;
             }
 
-            // Handle duplicates
+            // Handle duplicates    // nothing just as same as the part 1 just one addition for duplicate cases
             if (nums[s] == nums[m] && nums[m] == nums[e]) {
                 s++;
                 e--;
