@@ -32,6 +32,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ashwin095-exp/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ashwin095-exp/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ashwin095-exp/DSA/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ashwin095-exp/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwin095-exp/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Ashwin095-exp/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ashwin095-exp/DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Ashwin095-exp/DSA/tree/master/0796-rotate-string) |
 ## Dynamic Programming
@@ -74,6 +76,7 @@
 | [0075-sort-colors](https://github.com/Ashwin095-exp/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ashwin095-exp/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ashwin095-exp/DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
