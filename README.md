@@ -66,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/Ashwin095-exp/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ashwin095-exp/DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Ashwin095-exp/DSA/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Ashwin095-exp/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ashwin095-exp/DSA/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/Ashwin095-exp/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
 | ------- |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ashwin095-exp/DSA/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Ashwin095-exp/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
