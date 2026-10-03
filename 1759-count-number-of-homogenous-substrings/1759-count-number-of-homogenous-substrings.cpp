@@ -1,8 +1,8 @@
 class Solution {
 public:
     int countHomogenous(string s) {
-        long long ans = 0;
-        long long count = 0;
+        long long ans = 0;        //total valid homogeneous substrings found so far
+        long long count = 0;      //How many homogeneous substrings end at the current character
 
         for (int i = 0; i < s.length(); i++) {
 
