@@ -71,6 +71,7 @@
 | [0796-rotate-string](https://github.com/Ashwin095-exp/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwin095-exp/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwin095-exp/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Ashwin095-exp/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin095-exp/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -118,6 +119,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ashwin095-exp/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Ashwin095-exp/DSA/tree/master/0069-sqrtx) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Ashwin095-exp/DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin095-exp/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
