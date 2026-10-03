@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashwin095-exp/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Ashwin095-exp/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashwin095-exp/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ashwin095-exp/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashwin095-exp/DSA/tree/master/0229-majority-element-ii) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ashwin095-exp/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Ashwin095-exp/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Ashwin095-exp/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwin095-exp/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ashwin095-exp/DSA/tree/master/0242-valid-anagram) |
@@ -112,6 +114,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ashwin095-exp/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Ashwin095-exp/DSA/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin095-exp/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
